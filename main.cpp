@@ -1,9 +1,6 @@
-//
-//  main.cpp
-//  PracticeWithTheOverrideSpecifier
-//
-//  Created by Kimberly Young on 29/01/2023.
-//
+
+
+// This is exactly the same as the master branch, I am using this example project to practice git
 
 #include <iostream>
 
